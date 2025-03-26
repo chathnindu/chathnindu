@@ -6,7 +6,7 @@ I’m passionate about **building intuitive and scalable web & mobile applicatio
 
 ### 🔭 What I’m Working On  
 - 🚀 **Frontend development** with **Angular & Flutter**  
-- 🌱 **Exploring backend technologies** with **Spring Boot & Node.js**  
+- 🌱 **Exploring backend technologies** with **Spring Boot**  
 - 📱 Building modern **web & mobile applications**  
 
 ### 🛠️ Tech Stack  
