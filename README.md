@@ -11,13 +11,13 @@ I’m passionate about **building intuitive and scalable web & mobile applicatio
 
 ### 🛠️ Tech Stack  
 **Frontend:** Angular, Flutter, HTML, CSS, JavaScript, TypeScript  
-**Backend:** Spring Boot, Node.js  
+**Backend:** Spring Boot  
 **Databases:** MySQL, MongoDB  
 **Tools:** Git, GitHub, IntelliJ, VS Code  
 
 ### 💡 What I Love  
 ❤️ **Building user-friendly interfaces**  
-🎨 **Exploring UI/UX design principles**  
+🎨 **Exploring new design principles**  
 🌍 **Learning new technologies & frameworks**  
 
 ### 📌 Featured Projects  
