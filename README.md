@@ -2,7 +2,7 @@
 
 **Aspiring Software Developer** | **Software Engineering Undergraduate** | **Passionate about Building User-Friendly Applications** 🚀 
 
-I’m passionate about **building intuitive and scalable web & mobile applications**. My expertise lies in **Angular, Flutter, JavaScript, and TypeScript**, and I have a solid foundation in **backend development** with **Spring Boot, Node.js, MySQL, and MongoDB**.  
+I’m passionate about **building intuitive and scalable web & mobile applications**. My expertise lies in **Angular, Flutter, JavaScript, and TypeScript**, and I have a solid foundation in **backend development** with **Spring Boot, MySQL, and MongoDB**.  
 
 ### 🔭 What I’m Working On  
 - 🚀 **Frontend development** with **Angular & Flutter**  
