@@ -6,7 +6,7 @@
 </p>
 
 ## ✨ About Me  
-🎯 **Aspiring Software Developer** | 📚 **Software Engineering Undergraduate**  
+📚 **Software Engineering Undergraduate** | 🎯 **Aspiring Software Developer** 
 
 I love crafting **scalable and user-friendly applications**. Skilled in **Angular, Flutter, JavaScript, and TypeScript**, with a strong backend foundation in **Spring Boot, MySQL, and MongoDB**.  
 
