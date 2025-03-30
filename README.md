@@ -10,14 +10,12 @@
 
 I love crafting **scalable and user-friendly applications**. Skilled in **Angular, Flutter, JavaScript, and TypeScript**, with a strong backend foundation in **Spring Boot, MySQL, and MongoDB**.  
 
----
 
 ## 💡 What I Love
 - ❤️ Building user-friendly applications
 - 🎨 Exploring new ideas & principles
 - 🌍 Learning new technologies & frameworks
 
----
 
 ## 🛠️ Tech Stack  
 🔹 **Programming Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
@@ -26,14 +24,12 @@ I love crafting **scalable and user-friendly applications**. Skilled in **Angula
 🔹 **Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 🔹 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
----
 
 ## 🚀 Projects  
 🌟 **Eyedra** – AI-powered mental healthcare app (**Flutter & Spring Boot**)  
 🎟 **Real-Time Ticketing System** – Built with **Angular & Spring Boot**  
 ✈ **Flight Booking System** – Built using key **Java Principles**  
 
----
 
 ## 📫 Connect with Me  
 <p align="left">
@@ -45,7 +41,6 @@ I love crafting **scalable and user-friendly applications**. Skilled in **Angula
   </a>
 </p>
 
----
 
 <h3 align="center">🔥 Let’s team up and build something awesome! 🚀</h3>
 
