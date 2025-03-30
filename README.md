@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm <span style="color:#ff6b6b;">Chathnindu Dilmith Ranasinghe</span> 🚀</h1>
+<h1 align="center">Hello! 👋 I'm <span style="color:#ff6b6b;">Chathnindu Dilmith Ranasinghe</span> 🚀</h1>
 
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Software+Developer+💻;Passionate+About+Innovation+🚀;Building+User-Friendly+Applications+❤️" 
