@@ -47,5 +47,5 @@ I love crafting **scalable and user-friendly applications**. Skilled in **Angula
 
 ---
 
-<h3 align="center">🔥 Let's connect and build something amazing together! 🚀</h3>
+<h3 align="center">🔥 Let’s team up and build something awesome! 🚀</h3>
 
